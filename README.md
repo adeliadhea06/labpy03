@@ -1,7 +1,7 @@
 Hallo perkenalkan saya Deea Dwi Adelia NIM 312210116 kelas TI.22.A1.
-#Kondisional dan Perulangan
-##Lab 2: Struktur Kondisi
-###Latihan 1
+# Kondisional dan Perulangan
+## Lab 2: Struktur Kondisi
+### Latihan 1
 -Buat program sederhada dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut menggunakan statement if!
 Buat syntax sebagai berikut:
 ``` python
@@ -17,7 +17,7 @@ else:
 Berikut hasil setelah di run
 ![Screenshot (87)](https://user-images.githubusercontent.com/115794875/200199847-d952cf53-af2e-419e-b5e7-ba25599d773c.png)
 
-###Latihan 2
+### Latihan 2
 -Buat program untuk mengurutkan data berdasarkan input sejumlah data (minimal 3 variable input atau lebih), kemudian tampilkan hasilnya secara berurutan mulai dari data terkecil.
 Data yang sebelumnya bersifat acak, namun kemudian diurutkan dari nilai terkecil ke terbesar.
 Fungsi tersebut adalah fungsi sort().
@@ -40,8 +40,8 @@ print("Urutan bilangan :", angka)
 Berikut hasil run
 ![Screenshot (89)](https://user-images.githubusercontent.com/115794875/200200194-0199a5f9-b839-4b4d-be05-9842252e3b98.png)
 
-##Lab 3: Perulangan
-###Latihan 1
+## Lab 3: Perulangan
+### Latihan 1
 -Buat program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut:
 ![image](https://user-images.githubusercontent.com/115794875/200200369-c3870dd3-66b4-4b4f-ac53-1517530ef6b8.png)
 
@@ -58,7 +58,7 @@ for i in range(0,10):
 Dan ini hasil run
 ![Screenshot (91)](https://user-images.githubusercontent.com/115794875/200200456-18cf8d9f-504c-44ab-b603-9ea2908081e8.png)
 
-###Latihan 2
+### Latihan 2
 • Tampilkan n bilangan acak yang lebih kecil dari 0.5.
 • nilai n diisi pada saat runtime
 • anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
@@ -80,8 +80,8 @@ Berikut hasil run
 ![Screenshot (94)](https://user-images.githubusercontent.com/115794875/200200685-608297f6-36b9-419f-899b-51dd8a6b48f4.png)
 
 
-#Modul Praktikum 2 dan Praktikum 3
-###Labspy02
+# Modul Praktikum 2 dan Praktikum 3
+### Labspy02
 Buat program sederhana dengan input 3 buah bilangan, dari ketiga bilangan tersebut tampilkan bilangan terbesarnya. Gunakan statement if. Sertakan flowchart dan algoritmanya.
 - Berikut adalah flowchartnya
 ![image](https://user-images.githubusercontent.com/115794875/200201257-577ec925-c85d-42d6-b058-86d3e1e67ded.png)
@@ -93,8 +93,8 @@ Berikut hasil run
 ![Screenshot (106)](https://user-images.githubusercontent.com/115794875/200201406-19f6a1ec-79f5-4b0b-9c3a-f19777efef00.png)
 
 
-##Labspy03
-###Latihan1
+## Labspy03
+### Latihan 1
 1. Tampilkan n bilangan acak yang lebih kecil dari 0.5.
 2. nilai n diisi pada saat runtime.
 3. anda biasa menggunakan kombinasi while dan for untuk menyelesaikannya.
@@ -106,7 +106,7 @@ Berikut syntax nya
 Dan ini hasil run
 ![Screenshot (98)](https://user-images.githubusercontent.com/115794875/200201728-edd8ed5f-e539-4e0f-937c-799189bf2549.png)
 
-###Latihan 2
+### Latihan 2
 Buat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan. Masukkan angka 0 untuk beerhenti.
 
 Berikut syntax nya
@@ -115,7 +115,7 @@ Berikut syntax nya
 Dan ini hasil run
 ![Screenshot (100)](https://user-images.githubusercontent.com/115794875/200201823-660b4ec0-742c-4411-8676-49ff0085353b.png)
 
-###Program 1
+### Program 1
 Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba . pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya.
 
 - Berikut adalah flowchatnya.
@@ -169,4 +169,4 @@ bulan 8, hasilnya adalah total keuntungan yang didapat.
 Ini hasil run
 ![Screenshot (104)](https://user-images.githubusercontent.com/115794875/200202397-f236dde2-a768-43b9-9054-5aaae4fb4e7d.png)
 
-#SEKIAN, TERIMA KASIH
+# SEKIAN, TERIMA KASIH
