@@ -2,7 +2,7 @@
 # Kondisional dan Perulangan
 ## Lab 2: Struktur Kondisi
 ### Latihan 1
--Buat program sederhada dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut menggunakan statement if!
+- Buat program sederhana dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut menggunakan statement if!
 Buat syntax sebagai berikut:
 ``` python
 x = int(input("Masukkan bilangan ke 1: "))
@@ -18,7 +18,7 @@ Berikut hasil setelah di run
 ![Screenshot (87)](https://user-images.githubusercontent.com/115794875/200199847-d952cf53-af2e-419e-b5e7-ba25599d773c.png)
 
 ### Latihan 2
--Buat program untuk mengurutkan data berdasarkan input sejumlah data (minimal 3 variable input atau lebih), kemudian tampilkan hasilnya secara berurutan mulai dari data terkecil.
+- Buat program untuk mengurutkan data berdasarkan input sejumlah data (minimal 3 variable input atau lebih), kemudian tampilkan hasilnya secara berurutan mulai dari data terkecil.
 Data yang sebelumnya bersifat acak, namun kemudian diurutkan dari nilai terkecil ke terbesar.
 Fungsi tersebut adalah fungsi sort().
 ``` short() ```
@@ -42,7 +42,7 @@ Berikut hasil run
 
 ## Lab 3: Perulangan
 ### Latihan 1
--Buat program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut:
+- Buat program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut:
 ![image](https://user-images.githubusercontent.com/115794875/200200369-c3870dd3-66b4-4b4f-ac53-1517530ef6b8.png)
 
 Berikut adalah syntax nya:
