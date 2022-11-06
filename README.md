@@ -1,4 +1,4 @@
-Hallo perkenalkan saya DHea Dwi Adelia NIM 312210116 kelas TI.22.A1.
+Hallo perkenalkan saya Deea Dwi Adelia NIM 312210116 kelas TI.22.A1.
 #Kondisional dan Perulangan
 ##Lab 2: Struktur Kondisi
 ###Latihan 1
