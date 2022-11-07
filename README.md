@@ -118,12 +118,13 @@ Dan ini hasil run
 ### Program 1
 Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba . pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya.
 
-- Berikut adalah flowchatnya.
+Berikut adalah flowchatnya.
+
 ![image](https://user-images.githubusercontent.com/115794875/200202258-ee81883c-1c44-4f7d-84f0-609bd79b0785.png)
 
 
-- Algoritmanya
-- 
+Algoritmanya
+
 1.Mulai
 
 2.Mencetak latihan1
